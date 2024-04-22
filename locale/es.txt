@@ -13,4 +13,4 @@ Image_E6A1E0B8_F353_216E_41D8_212D43AD01DE_mobile.url = skin/Image_E6A1E0B8_F353
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = Apartamento Modelo Tour
