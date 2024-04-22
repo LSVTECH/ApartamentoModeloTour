@@ -1,0 +1,14 @@
+#: locale=es
+
+## Skin
+
+### Image
+Image_2E79DA90_0678_3D07_416E_A5DB0AF6E330.url = skin/Image_2E79DA90_0678_3D07_416E_A5DB0AF6E330_es.png
+Image_E6A1E0B8_F353_216E_41D8_212D43AD01DE.url = skin/Image_E6A1E0B8_F353_216E_41D8_212D43AD01DE_es.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
